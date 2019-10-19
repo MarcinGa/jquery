@@ -1,0 +1,14 @@
+#first {
+    background-color: green;
+    height: 200px;
+}
+
+.fade {
+    height: 300px;
+    background-color: brown;
+}
+
+.slide {
+    background-color: blue;
+    height: 300px;
+}
